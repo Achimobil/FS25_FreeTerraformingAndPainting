@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="92">
+	<author>Achimobil</author>
+	<version>0.1.0.0</version>
+	<title>
+		<de>Kostenloses Terraforming Und Malen</de>
+		<en>Free Terraforming And Painting</en>
+	</title>
+	<description>
+		<de><![CDATA[Malen und Terraforming ist schon Zeitaufwändig genug, da muss es nicht auch nicht viel Geld kosten.
+
+Dieser Mod macht Terraforming und Malen von Bodentexturen kostenlos.
+
+Upload auf anderen Seiten außer dem ModHub ist verboten und somit illegal, Verlinkung nur mit Original-Downloadlink. KEIN Ersatzlink!
+Das Verändern oder erneutes hochladen, ob ganz oder in Teilen, ist nicht gestattet!
+
+Fehler und Anregungen gerne auf <a href="https://github.com/Achimobil/FS25_FreeTerraformingAndPainting">GitHub</a>.
+]]></de>
+		<en><![CDATA[Painting and terraforming is already time consuming enough, it doesn't have to cost a lot of money.
+
+This mod makes terraforming and painting ground textures free of charge.
+
+Uploading to sites other than ModHub is prohibited and therefore illegal, linking only with original download link. NO substitute link!
+Modifying and re-uploading in whole or in part is not allowed!
+
+Bugs and suggestions welcome on <a href="https://github.com/Achimobil/FS25_FreeTerraformingAndPainting">GitHub</a>.
+]]></en>
+	</description>
+	
+	<iconFilename>icon_FreeTerraformingAndPainting.dds</iconFilename>
+	
+	<multiplayer supported="true"/>
+	
+	<extraSourceFiles>
+		<sourceFile filename="LandscapingExtension.lua"/>
+	</extraSourceFiles>
+</modDesc>
