@@ -39,9 +39,9 @@ function LandscapingExtension.DebugText(text, ...)
 	print("LandscapingExtensionDebug: " .. string.format(text, ...));
 end
 
-function Landscaping.getCost(superfunc, displacedVolumeOrArea)
-	LandscapingExtension.DebugText("Landscaping.getCost(%s, %s)", superfunc, displacedVolumeOrArea)
+function LandscapingExtension.getCost(superfunc, displacedVolumeOrArea)
+	-- LandscapingExtension.DebugText("Landscaping.getCost(%s, %s)", superfunc, displacedVolumeOrArea)
 	return 0;
 end
 
-Landscaping.update = Utils.overwrittenFunction(Landscaping.update, LandscapingExtension.update)
+Landscaping.getCost = Utils.overwrittenFunction(Landscaping.getCost, LandscapingExtension.getCost)
