@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<modDesc descVersion="92">
+<modDesc descVersion="93">
 	<author>Achimobil</author>
-	<version>1.0.0.0</version>
+	<version>1.0.1.0</version>
 	<title>
 		<de>Kostenloses Terraforming Und Malen</de>
 		<en>Free Terraforming And Painting</en>
@@ -15,6 +15,8 @@ Upload auf anderen Seiten außer dem ModHub ist verboten und somit illegal, Verl
 Das Verändern oder erneutes hochladen, ob ganz oder in Teilen, ist nicht gestattet!
 
 Fehler und Anregungen gerne auf <a href="https://github.com/Achimobil/FS25_FreeTerraformingAndPainting">GitHub</a>.
+
+Changelog 1.0.1.0 - ModIcon korrigiert
 ]]></de>
 		<en><![CDATA[Painting and terraforming is already time consuming enough, it doesn't have to cost a lot of money.
 
@@ -24,6 +26,8 @@ Uploading to sites other than ModHub is prohibited and therefore illegal, linkin
 Modifying and re-uploading in whole or in part is not allowed!
 
 Bugs and suggestions welcome on <a href="https://github.com/Achimobil/FS25_FreeTerraformingAndPainting">GitHub</a>.
+
+Changelog 1.0.1.1 - ModIcon corrected
 ]]></en>
 	</description>
 	
