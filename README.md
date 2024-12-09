@@ -4,7 +4,7 @@ Verwendung einer Version aus GitHub ist auf eigene Gefahr.
 
 
 # ModHub
-comming soon
+https://www.farming-simulator.com/mod.php?mod_id=305153&title=fs2025
 
 
 # General
