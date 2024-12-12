@@ -6,3 +6,4 @@
 store\*.png
 images
 SourceModels
+*.zip
