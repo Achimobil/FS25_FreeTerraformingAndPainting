@@ -6,6 +6,10 @@ Verwendung einer Version aus GitHub ist auf eigene Gefahr.
 # ModHub
 https://www.farming-simulator.com/mod.php?mod_id=305153&title=fs2025
 
+# Build my Mods self
+Deutsche Anleitung: https://youtu.be/qG8wNBkjB3w
+
+Englisch manual: https://youtu.be/xCjQLPn0u1A
 
 # General
 ## DE
