@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<modDesc descVersion="92">
+<modDesc descVersion="95">
 	<author>Achimobil</author>
-	<version>1.0.1.0</version>
+	<version>1.0.2.0</version>
 	<title>
 		<de>Kostenloses Terraforming Und Malen</de>
 		<en>Free Terraforming And Painting</en>
@@ -18,9 +18,10 @@ Das Verändern oder erneutes Hochladen, ob ganz oder in Teilen, ist nicht gestat
 Fehler und Anregungen gerne auf <a href="https://github.com/Achimobil/FS25_FreeTerraformingAndPainting">GitHub</a>.
 
 Changelog
-1.0.1.0
+1.0.2.0
 - Türkischer Titel und ein paar Rechtschreibfehler korrigiert
 - Zip aus Mod entfernt
+- Mod Icon mit KI erstellt
 
 1.0.1.0
 - ModIcon korrigiert
@@ -35,9 +36,10 @@ Modifying and re-uploading in whole or in part is not allowed!
 Bugs and suggestions welcome on <a href="https://github.com/Achimobil/FS25_FreeTerraformingAndPainting">GitHub</a>.
 
 Changelog 
-1.0.1.0
+1.0.2.0
 - Turkish title and a few spelling mistakes corrected
 - Zip removed from mod
+- Add KI generated Mod Icon
 
 1.0.1.1
 - ModIcon corrected
